@@ -1,0 +1,19 @@
+{  
+   "name":"faforty/fw-encrypt",
+   "description":"php encrypt data",
+   "license":"MIT",
+   "authors":[  
+      {  
+         "name":"faforty",
+         "email":"faforty@ya.ru"
+      }
+   ],
+   "require":{  
+      "php":">=5.5.0"
+   },
+   "autoload":{  
+      "psr-4":{  
+         "Faforty\\":"src/"
+      }
+   }
+}
